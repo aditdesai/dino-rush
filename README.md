@@ -7,6 +7,8 @@ Space Bar - Jump
 Enter - Play/Pause
 </pre>
 
+![Alt text](image.png)
+
 <h2> Instructions </h1>
 <ol>
     <li> 
