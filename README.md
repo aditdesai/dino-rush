@@ -14,6 +14,10 @@ Enter - Play/Pause
         <code>git clone https://github.com/aditdesai/dino-rush.git</code>
     </li>
     <li>
+        Change directory
+        <code>cd dino-rush</code>
+    </li>
+    <li>
         Run main.py
         <code>python main.py</code>
     </li>
